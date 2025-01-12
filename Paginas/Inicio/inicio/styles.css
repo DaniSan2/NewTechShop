@@ -37,14 +37,14 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #6C63FF;
+    background-color: #5C6BC0;
     padding: 6px 20px;
     color: white;
 }
 
 /* Estilos del contenedor del logo */
 .logo {
-    background-color: #6C63FF;
+    background-color: #5C6BC0;
     width: 150px; /* Ancho del rectángulo */
     height: 100px; /* Altura del rectángulo */
     display: flex;
@@ -163,7 +163,7 @@ body {
 }
 
 .footer {
-    background-color: #6C63FF;
+    background-color: #5C6BC0;
     color: white;
     text-align: center;
     padding: 10px;
