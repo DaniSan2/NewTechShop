@@ -1,4 +1,23 @@
-
+:root {
+    --header-height: 3rem;
+    --first-color: #64B5F6;
+    --first-color-lighter: #ecf3f2;
+    --title-color: #5C6BC0;
+    --text-color: #9FA8DA;
+    --body-color: #f5fffe;
+    --body-font: "Poppins", sans-serif;
+    --biggest-font-size: 2.5rem;
+    --big-font-size: 1.5rem;
+    --normal-font-size: .9rem;
+    --font-medium: 500;
+    --font-semi-bold: 600;
+    --z-tooltip: 10;
+    --z-fixed: 100;
+    --input-border: #64B5F6;
+    --button-color: #5C6BC0;
+    --button-hover: #3F51B5;
+    --text-input-color: #3C4858;
+  }
 * {
   padding: 0;
   margin: 0;
