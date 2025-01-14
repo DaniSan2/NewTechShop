@@ -274,3 +274,31 @@ footer span a {
 footer span a:hover {
   text-decoration: underline;
 }
+
+/* Estilos para el cuadro informativo */
+.info-box {
+  background-color: #E3F2FD; /* Azul muy claro */
+  border: 2px solid #64B5F6; /* Borde azul */
+  border-radius: 5px;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 90%;
+  font-family: var(--body-font);
+}
+
+.info-box-title {
+  color: #5C6BC0;
+  font-size: var(--normal-font-size);
+  margin-bottom: 15px;
+}
+
+.info-box-list {
+  margin-left: 20px;
+  color: #3C4858;
+}
+
+.info-box-list li {
+  margin-bottom: 10px;
+  line-height: 1.4;
+  font-size: var(--normal-font-size);
+}
